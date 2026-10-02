@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/campaign-impact-report-pdf",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/campaign-impact-report-pdf": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/campaign-impact-report-pdf",
+    "origin"
+  ]
+}
